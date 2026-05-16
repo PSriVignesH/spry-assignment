@@ -25,15 +25,15 @@ Runs at `http://localhost:5173`
 
 | Layer | Library | Version | Purpose |
 |---|---|---|---|
-| Framework | React | 18 | UI rendering |
-| Language | TypeScript | 5 | Type safety |
-| Build tool | Vite | 5 | Dev server and bundler |
+| Framework | React | 19 | UI rendering |
+| Language | TypeScript | 6 | Type safety |
+| Build tool | Vite | 8 | Dev server and bundler |
 | Styling | Tailwind CSS | v4 | Utility-first styling |
-| UI Components | shadcn/ui | latest | Select, Button, Skeleton, Pagination, Separator |
+| UI Components | shadcn/ui | latest | Select, Button, Skeleton, Pagination, Separator, Sheet |
 | Data fetching | TanStack Query (React Query) | v5 | Server state, caching, deduplication |
-| Client state | Zustand | v4 | Favourites store with localStorage persistence |
+| Client state | Zustand | v5 | Favourites store with localStorage persistence |
 | URL state | nuqs | v2 | Filter/sort/page params synced to URL |
-| Icons | Lucide React | latest | Heart, chevron, cart icons |
+| Icons | Lucide React | latest | Heart, chevron, cart, menu icons |
 | Notifications | Sonner | latest | Toast on favourite/unfavourite |
 
 ---
